@@ -1,0 +1,5 @@
+---
+pid: 13903
+control_url: unix:///home/itweb_hcm/mi-bodega-rails/pumactl.sock
+control_auth_token: 0c1aac644d0a41a5eb5976dd7adfeea2
+running_from: "/home/itweb_hcm/mi-bodega-rails"
